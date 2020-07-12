@@ -1,0 +1,16 @@
+git init
+git status
+git add ./ git add -A /git add -u
+git commit -m "version name"
+git add remote origin "ssh"
+git push -u origin master
+
+git pull "ssh key"
+git clone "ssh key"
+
+git branch
+git branch "name"
+git checkout "name"
+
+git branch -d "name"
+git push origin --delet "name"
